@@ -1,0 +1,24 @@
+Coding
+1.fibonacci series
+2.reverse string
+3.bubble sort
+4.all sorting
+5. Leap year programme,string reversal Java vs C Plandrom number
+6.print second largest number in a array
+7.Write a palindrome program
+8.write a code to count number of characters in a string
+9.fibinocci series using recursion
+10.palindrom,armstrong no
+11.Given two arrays, Array1 and Array2, of equal size S, the objective is to track down the least value of Array1[0] * Array2[0] + Array1[1] * Array2[1] +…+ Array1[S-1] * Array2[S-1]. Shuffling of elements of arrays are allowed. 
+12.Given an array Numbers[] and a number N, display for all pairs in Numbers[] with a difference as 2N
+13.Given a number N, find all numbers from 0 to “N” having an occurrence of a digit “D”, where N>0 & 0<=D<= 9
+14.prime number question ,LCM,GCD
+15.Linked Lists
+16.find the first 3 highest salaries.
+17.Write a program for prime number
+18.Write a code to check a number is even or not. Write a code to check an alphabet is vowel or not.
+19.explain SDLC in a detail.
+20.Write a program and include all the opps concepts. Print in series - A1, B2, C3, ..., Z26. Print pyramid: 1 121 12321 1234321
+21.2nd highest salary query 
+22.write a program to get the most occurred elements in a vector
+23.sort an given array
